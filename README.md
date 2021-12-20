@@ -24,19 +24,19 @@
 
 - Add `nuxt-google-optimize` dependency using yarn or npm to your project
 ```sh
-yarn add nuxt-google-optimize
+yarn add nuxt-google-optimize-next
 ```
 OR
 ```sh
-npm install nuxt-google-optimize --save
+npm install nuxt-google-optimize-next --save
 ```
 
-- Add `nuxt-google-optimize` to `modules` section of `nuxt.config.js`
+- Add `nuxt-google-optimize-next` to `modules` section of `nuxt.config.js`
 
 ```js
 {
   modules: [
-    'nuxt-google-optimize',
+    'nuxt-google-optimize-next',
   ],
 
   // Optional options
